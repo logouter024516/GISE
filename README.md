@@ -1,5 +1,5 @@
 
-> 이 페이지를 [https://logouter024516.github.io/gise/](https://logouter024516.github.io/GISE/)으로 열기
+> 이 페이지를 [https://logouter024516.github.io/GISE/](https://logouter024516.github.io/GISE/)으로 열기
 
 ## 확장으로 사용
 
